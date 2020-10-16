@@ -18,7 +18,6 @@ function calculation(){
     fifteen.innerHTML = ("15%: $"+(amount*.15).toFixed(2));
     twenty.innerHTML = ("20%: $"+(amount*.20).toFixed(2));
     twentyFive.innerHTML = ("25%: $"+(amount*.25).toFixed(2));
-    twentyFive.innerHTML = ("25%: $"+(amount*.25).toFixed(2));
 }
 
 window.onload = function(){
